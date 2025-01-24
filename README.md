@@ -1,6 +1,6 @@
 # Online Book Store For Software Engineering
 
-group 4
+free thinkers
 
 
 1. Kernemi Kidane                               Ets0760/15
