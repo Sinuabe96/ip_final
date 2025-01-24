@@ -2,7 +2,7 @@
 
 group 4
 
-   name                                           id
+
 1. Kernemi Kidane                               Ets0760/15
 2. Kaleb Dangachew                              Ets0747/15
 3. Lamrot Hiwote                                 Ets1542/15                               
